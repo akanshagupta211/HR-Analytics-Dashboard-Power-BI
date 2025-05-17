@@ -54,10 +54,14 @@ The dashboard includes the following components:
    
    ![Overview](https://github.com/akanshagupta211/HR-Analytics-Dashboard-Power-BI/blob/main/Visualizations(screenshots)/Human%20Resources.png?raw=true)
    
-3.![Overview]()
+3. Research and Development
+   
+![Overview](https://github.com/akanshagupta211/HR-Analytics-Dashboard-Power-BI/blob/main/Visualizations(screenshots)/Research%20and%20Development.png?raw=true)
 
 
-4. ![Overview]()
+4.
+
+  ![Overview]()
 > Screenshots is stored in `Visualizations(screenshots)/` folder for reference.
 ## 🚀 How to Use
 1. Download the PBIX file from this repo.
