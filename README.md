@@ -47,8 +47,17 @@ The dashboard includes the following components:
 - Department filter: Human Resources, Research & Development, Sales
 ## 🖼️ Screenshot
 1. Overview of the Dashboard
+   
 ![Overview](https://github.com/akanshagupta211/HR-Analytics-Dashboard-Power-BI/blob/main/Visualizations(screenshots)/Overview%20of%20the%20Dashboard.png?raw=true)
 
+2. Human Resource
+   
+   ![Overview](https://github.com/akanshagupta211/HR-Analytics-Dashboard-Power-BI/blob/main/Visualizations(screenshots)/Human%20Resources.png?raw=true)
+   
+3.![Overview]()
+
+
+4. ![Overview]()
 > Screenshots is stored in `Visualizations(screenshots)/` folder for reference.
 ## 🚀 How to Use
 1. Download the PBIX file from this repo.
