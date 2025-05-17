@@ -63,9 +63,8 @@ The dashboard includes the following components:
 ---
 
 ## 🖼️ Screenshot
-https://github.com/akanshagupta211/HR-Analytics-Dashboard-Power-BI/blob/main/Visualizations(screenshots)/Overview%20of%20the%20Dashboard.png
 
-![HR Analytics Dashboard Screenshot](screenshots/Screenshot%202025-05-16%20133702.png)
+![HR Analytics Dashboard Screenshot](Visualizations(screenshots)/overview of the dashboard.png)
 
 > Screenshot is stored in `screenshots/` folder for reference.
 
