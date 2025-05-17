@@ -63,6 +63,8 @@ The dashboard includes the following components:
 ---
 
 ## 🖼️ Screenshot
+![Overview of the Dashboard](Visualizations%20(Screenshots)/Overview%20of%20the%20Dashboard.png)
+
 
 ![HR Analytics Dashboard Screenshot](Visualizations(screenshots)/overview of the dashboard.png)
 
