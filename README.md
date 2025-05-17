@@ -8,16 +8,10 @@ The dataset used includes information on:
 - Performance metrics (Job Satisfaction, Attrition Status)
 
 These fields are used to build insightful visualizations that reveal patterns of attrition and satisfaction.
-
----
-
 ## 🧰 Tools Used
 - **Power BI** – for dashboard creation
 - **Power Query** – for data cleaning and transformation
 - **DAX** – for calculated measures, KPIs, and logic
-
----
-
 ## 🔍 Data Cleaning & Transformation (Power Query)
  - Connected the employee dataset using Excel and Power Query. 
  - Performed data transformation and cleaning steps such as: 
@@ -28,10 +22,6 @@ These fields are used to build insightful visualizations that reveal patterns of
  - Introduced a parameter to filter data based on specific conditions. 
  - Encapsulated all transformation steps into a reusable function for future datasets. 
  - Loaded the cleaned and structured data into Power BI for analysis.
-
----
-
-
 ## 📊 Dashboard Visualizations
 
 The dashboard includes the following components:
@@ -55,24 +45,15 @@ The dashboard includes the following components:
 
 ### 🎯 Filters:
 - Department filter: Human Resources, Research & Development, Sales
-
----
-
 ## 🖼️ Screenshot
 1. Overview of the Dashboard
 ![Overview](https://github.com/akanshagupta211/HR-Analytics-Dashboard-Power-BI/blob/main/Visualizations(screenshots)/Overview%20of%20the%20Dashboard.png?raw=true)
 
 > Screenshots is stored in `Visualizations(screenshots)/` folder for reference.
-
----
-
 ## 🚀 How to Use
 1. Download the PBIX file from this repo.
 2. Open in Power BI Desktop.
 3. Interact with the filters, slicers, and visualizations to explore the insights.
-
----
-
 ## 📌 Conclusion
 This HR Dashboard enables organizations to:
 - Identify key drivers of employee attrition
