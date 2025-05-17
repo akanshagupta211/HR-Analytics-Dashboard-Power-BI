@@ -1,10 +1,6 @@
 # HR-Analytics-Dashboard-Power-BI
-
 ## 📊 Overview
 This repository features an interactive HR Analytics Dashboard developed using Power BI. The dashboard offers valuable insights and visualizations derived from an HR dataset, aiming to help organizations manage their workforce more effectively and align with business goals. The primary objective is to monitor key HR metrics and identify factors contributing to employee attrition. Multiple reports have been created to analyze various dimensions such as age, salary, job role, and education—empowering organizations to take informed actions for improving employee retention.
-
----
-
 ## 📁 Dataset
 The dataset used includes information on:
 - Employee demographics (Age, Gender, Education)
