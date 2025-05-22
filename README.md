@@ -77,7 +77,7 @@ This HR Dashboard enables organizations to:
 It helps HR teams make data-driven decisions and enhance employee retention programs.
 
 ## 📫 Contact
-For queries, suggestions, or collaboration opportunities, feel free to connect via [LinkedIn](#www.linkedin.com/in/akansha-gupta-b649a2216) or ([Email Me](mailto:akanshabkg@gmail.com)
+For queries, suggestions, or collaboration opportunities, feel free to connect via [LinkedIn](#www.linkedin.com/in/akansha-gupta-b649a2216) or [Email Me](mailto:akanshabkg@gmail.com)
 ).
 
 ---
