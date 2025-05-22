@@ -77,7 +77,6 @@ This HR Dashboard enables organizations to:
 It helps HR teams make data-driven decisions and enhance employee retention programs.
 
 ## 📫 Contact
-For questions, suggestions, or collaboration, feel free to connect!
-
+For queries, suggestions, or collaboration opportunities, feel free to connect via LinkedIn or email.
 ---
 
