@@ -45,7 +45,7 @@ The dashboard includes the following components:
 
 ### 🎯 Filters:
 - Department filter: Human Resources, Research & Development, Sales
-## 🖼️ Screenshot
+## 🖼️ Screenshots of the Dashboard
 1. Overview of the Dashboard
    
 ![Overview](https://github.com/akanshagupta211/HR-Analytics-Dashboard-Power-BI/blob/main/Visualizations(screenshots)/Overview%20of%20the%20Dashboard.png?raw=true)
@@ -63,6 +63,7 @@ The dashboard includes the following components:
 
   ![Overview](https://github.com/akanshagupta211/HR-Analytics-Dashboard-Power-BI/blob/main/Visualizations(screenshots)/Sales.png?raw=true)
 > Screenshots is stored in `Visualizations(screenshots)/` folder for reference.
+
 ## 🚀 How to Use
 1. Download the PBIX file from this repo.
 2. Open in Power BI Desktop.
@@ -74,8 +75,6 @@ This HR Dashboard enables organizations to:
 - Segment employees by salary, age, and tenure for better engagement strategies
 
 It helps HR teams make data-driven decisions and enhance employee retention programs.
-
----
 
 ## 📫 Contact
 For questions, suggestions, or collaboration, feel free to connect!
