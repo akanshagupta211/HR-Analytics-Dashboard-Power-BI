@@ -56,12 +56,12 @@ The dashboard includes the following components:
    
 3. Research and Development
    
-![Overview](https://github.com/akanshagupta211/HR-Analytics-Dashboard-Power-BI/blob/main/Visualizations(screenshots)/Research%20and%20Development.png?raw=true)
+![Overview](https://github.com/akanshagupta211/HR-Analytics-Dashboard-Power-BI/blob/main/Visualizations%20(screenshots)/Research%20and%20Development.png)
 
 
 4. Sales 
 
-  ![Overview](https://github.com/akanshagupta211/HR-Analytics-Dashboard-Power-BI/blob/main/Visualizations(screenshots)/Sales.png?raw=true)
+  ![Overview](https://github.com/akanshagupta211/HR-Analytics-Dashboard-Power-BI/blob/main/Visualizations%20(screenshots)/Sales.png)
 > Screenshots is stored in `Visualizations(screenshots)/` folder for reference.
 
 ## 🚀 How to Use
