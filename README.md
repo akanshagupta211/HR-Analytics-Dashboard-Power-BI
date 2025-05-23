@@ -48,11 +48,11 @@ The dashboard includes the following components:
 ## 🖼️ Screenshots of the Dashboard
 1. Overview of the Dashboard
    
-![Overview](https://github.com/akanshagupta211/HR-Analytics-Dashboard-Power-BI/blob/main/Visualizations(screenshots)/Overview%20of%20the%20Dashboard.png?raw=true)
+![Overview](https://github.com/akanshagupta211/HR-Analytics-Dashboard-Power-BI/blob/main/Visualizations%20(screenshots)/Overview%20of%20the%20Dashboard.png)
 
 2. Human Resource
    
-   ![Overview](https://github.com/akanshagupta211/HR-Analytics-Dashboard-Power-BI/blob/main/Visualizations(screenshots)/Human%20Resources.png?raw=true)
+   ![Overview](https://github.com/akanshagupta211/HR-Analytics-Dashboard-Power-BI/blob/main/Visualizations%20(screenshots)/Human%20Resources.png)
    
 3. Research and Development
    
